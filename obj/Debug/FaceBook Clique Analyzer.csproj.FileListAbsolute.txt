@@ -1,0 +1,4 @@
+C:\Users\Itai Ofir\Documents\לימודים\שנה ג\סמסטר א\תבניות עיצוב\הגשה 3\FaceBook Clique Analyzer\obj\Debug\FaceBook Clique Analyzer.csprojAssemblyReference.cache
+C:\Users\Itai Ofir\Documents\לימודים\שנה ג\סמסטר א\תבניות עיצוב\הגשה 3\FaceBook Clique Analyzer\obj\Debug\A21_Ex02_Itai_204318034_Stanislav_321338659.MainForm.resources
+C:\Users\Itai Ofir\Documents\לימודים\שנה ג\סמסטר א\תבניות עיצוב\הגשה 3\FaceBook Clique Analyzer\obj\Debug\A21_Ex01_Itai_204318034_Stanislav_321338659.Properties.Resources.resources
+C:\Users\Itai Ofir\Documents\לימודים\שנה ג\סמסטר א\תבניות עיצוב\הגשה 3\FaceBook Clique Analyzer\obj\Debug\FaceBook Clique Analyzer.csproj.GenerateResource.cache

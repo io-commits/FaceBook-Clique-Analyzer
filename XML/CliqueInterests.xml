@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+
+<CliqueInterests>
+<Interest Name = "Hiking" >
+    <KeyWord value = "mountain"></KeyWord>
+    <KeyWord value = "trail"></KeyWord>
+	<KeyWord value = "wild"></KeyWord>
+</Interest>
+<Interest Name = "Market" >
+    <KeyWord value = "buy"></KeyWord>
+    <KeyWord value = "sell"></KeyWord>
+	<KeyWord value = "stock"></KeyWord>
+        <KeyWord value = "dollar"></KeyWord>
+</Interest>
+<Interest Name = "Sports" >
+    <KeyWord value = "team"></KeyWord>
+    <KeyWord value = "soccer"></KeyWord>
+	<KeyWord value = "basketball"></KeyWord>
+    <KeyWord value = "tennis"></KeyWord>
+    <KeyWord value = "golf"></KeyWord>
+
+</Interest>
+<Interest Name = "Tech" >
+    <KeyWord value = "computer"></KeyWord>
+    <KeyWord value = "hacking"></KeyWord>
+	<KeyWord value = "firmware"></KeyWord>
+    <KeyWord value = "software"></KeyWord>
+    <KeyWord value = "algorithm"></KeyWord>
+</Interest>
+<Interest Name = "Journalism" >
+    <KeyWord value = "article"></KeyWord>
+    <KeyWord value = "news"></KeyWord>
+    <KeyWord value = "magazine"></KeyWord>
+</Interest>
+<Interest Name = "Food" >
+    <KeyWord value = "cake"></KeyWord>
+    <KeyWord value = "pizza"></KeyWord>
+    <KeyWord value = "burger"></KeyWord>
+    <KeyWord value = "pasta"></KeyWord>
+
+</Interest>
+</CliqueInterests>

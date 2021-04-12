@@ -1,0 +1,12 @@
+C:\Users\Itai Ofir\Documents\לימודים\שנה ג\סמסטר א\תבניות עיצוב\הגשה 3\FaceBook Clique Analyzer\Proxy\obj\Debug\Proxy.csprojAssemblyReference.cache
+C:\Users\Itai Ofir\Documents\לימודים\שנה ג\סמסטר א\תבניות עיצוב\הגשה 3\FaceBook Clique Analyzer\Proxy\bin\Debug\Proxy.dll.config
+C:\Users\Itai Ofir\Documents\לימודים\שנה ג\סמסטר א\תבניות עיצוב\הגשה 3\FaceBook Clique Analyzer\Proxy\bin\Debug\Proxy.dll
+C:\Users\Itai Ofir\Documents\לימודים\שנה ג\סמסטר א\תבניות עיצוב\הגשה 3\FaceBook Clique Analyzer\Proxy\bin\Debug\Proxy.pdb
+C:\Users\Itai Ofir\Documents\לימודים\שנה ג\סמסטר א\תבניות עיצוב\הגשה 3\FaceBook Clique Analyzer\Proxy\bin\Debug\Facebook.dll
+C:\Users\Itai Ofir\Documents\לימודים\שנה ג\סמסטר א\תבניות עיצוב\הגשה 3\FaceBook Clique Analyzer\Proxy\bin\Debug\FbGraphApiWrapper.dll
+C:\Users\Itai Ofir\Documents\לימודים\שנה ג\סמסטר א\תבניות עיצוב\הגשה 3\FaceBook Clique Analyzer\Proxy\bin\Debug\Logic.dll
+C:\Users\Itai Ofir\Documents\לימודים\שנה ג\סמסטר א\תבניות עיצוב\הגשה 3\FaceBook Clique Analyzer\Proxy\bin\Debug\Logic.pdb
+C:\Users\Itai Ofir\Documents\לימודים\שנה ג\סמסטר א\תבניות עיצוב\הגשה 3\FaceBook Clique Analyzer\Proxy\bin\Debug\Logic.dll.config
+C:\Users\Itai Ofir\Documents\לימודים\שנה ג\סמסטר א\תבניות עיצוב\הגשה 3\FaceBook Clique Analyzer\Proxy\obj\Debug\Proxy.csproj.CopyComplete
+C:\Users\Itai Ofir\Documents\לימודים\שנה ג\סמסטר א\תבניות עיצוב\הגשה 3\FaceBook Clique Analyzer\Proxy\obj\Debug\Proxy.dll
+C:\Users\Itai Ofir\Documents\לימודים\שנה ג\סמסטר א\תבניות עיצוב\הגשה 3\FaceBook Clique Analyzer\Proxy\obj\Debug\Proxy.pdb
