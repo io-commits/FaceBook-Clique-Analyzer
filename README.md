@@ -6,14 +6,14 @@ The Clique Analyzer is a .NET Winforms based GUI application that allows a marke
 
 The application has three main tabs: main, cliques and resutls dump.
 
-## main tab
+## Main
 
 Shows general information about the user
 
-## clique tab
+## Clique Analyze
 
 Shows the actual analysis of the cliques by a specific Tree scheme 
 
-## results tab
+## Results
 
 Allows the user to save the examined cliques or a specific clique
