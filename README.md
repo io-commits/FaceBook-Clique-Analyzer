@@ -17,3 +17,5 @@ Shows the actual analysis of the cliques by a specific Tree scheme
 ## Results
 
 Allows the user to save the examined cliques or a specific clique
+
+Please check the uploaded docx: "FaceBook Clique Analyzer.docx" for full documentation and schematics.
